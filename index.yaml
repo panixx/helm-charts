@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  macgruber:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-12-05T21:57:01.700049373Z"
+    description: A Helm chart for Kubernetes
+    digest: d4c7bf724fcbb6ce5a4f4583400fad925b7f6ea9ff6d081afaa4e2c1e82b354b
+    name: macgruber
+    type: application
+    urls:
+    - https://github.com/panixx/helm-charts/releases/download/macgruber-0.1.0/macgruber-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-05T21:57:01.700059211Z"
